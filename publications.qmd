@@ -1,0 +1,50 @@
+---
+title: "Publications"
+# author: "Hongshan Guo"
+# date: "Last updated: 2024-06-07"
+format:
+  html:
+    toc: false
+    css: styles.css
+---
+
+## Fresh-In Papers
+
+- **Guo, H., Zhou, Y., Lai, C., Ren, C.** (2024). From Open Air to Air-Tight: Analyzing the Ventilation Overhaul in Hong Kong's Wet Markets and Its Implications. *Proceedings of the International Building Physics Conference 2024*, Toronto Metropolitan University, 25-27 July 2024.
+
+- **Guo, H., Coleman, J., Gullapalli, I.** (2024). Accelerating NZEB Design Optimization through LLM-based Standardization and Compliance Checking. *Proceedings of the International Building Physics Conference 2024*, Toronto Metropolitan University, 25-27 July 2024.
+
+## Patent
+
+- **Guo, H., Yu, Y., Goel, S., Wang, L.** (2021). Methods and Systems for Generating Predictions Based on Time Series Data Using an Ensemble Modeling. *United States Patent Application 17205890*, The Bank of New York Mellon. Filing Date: March 18, 2021. First Publication Date: September 22, 2022. [Google Patents](https://patents.google.com/patent/EP4064139A1/en?q=(Guo+BNY)&inventor=Hongshan&assignee=Mellon&oq=Hongshan+Guo+BNY+Mellon).
+
+## Journal Papers
+
+1. **N Ma, D Aviv, H Guo, WW Braham** (2021). Measuring the right factors: A review of variables and models for thermal comfort and indoor air quality. *Renewable and Sustainable Energy Reviews, 135*, 110436. [DOI](https://doi.org/10.1016/j.rser.2020.110436)
+2. **H Guo, D Aviv, M Loyola, E Teitelbaum, N Houchois, F Meggers** (2020). On the understanding of the mean radiant temperature within both the indoor and outdoor environment, a critical review. *Renewable and Sustainable Energy Reviews, 117*, 109207. [DOI](https://doi.org/10.1016/j.rser.2019.06.014)
+3. **Y Luo, L Zhang, M Bozlar, Z Liu, H Guo, F Meggers** (2019). Active building envelope systems toward renewable and sustainable energy. *Renewable and Sustainable Energy Reviews, 104*, 470-491. [DOI](https://doi.org/10.1016/j.rser.2019.01.002)
+4. **Y Luo, H Guo, F Meggers, L Zhang** (2019). Deep coaxial borehole heat exchanger: Analytical modeling and thermal analysis. *Energy, 185*, 1298-1313. [DOI](https://doi.org/10.1016/j.energy.2019.07.017)
+5. **E Teitelbaum, KW Chen, F Meggers, H Guo, N Houchois, J Pantelic** (2020). Globe thermometer free convection error potentials. *Scientific Reports, 10*, 2652. [DOI](https://doi.org/10.1038/s41598-020-59412-4)
+6. **H Guo, E Teitelbaum, N Houchois, M Bozlar, F Meggers** (2018). Revisiting the use of globe thermometers to estimate radiant temperature in studies of heating and ventilation. *Energy and Buildings, 180*, 83-94. [DOI](https://doi.org/10.1016/j.enbuild.2018.10.012)
+7. **F Meggers, H Guo, E Teitelbaum, G Aschwanden, J Read, N Houchois** (2017). The Thermoheliodome–“Air conditioning” without conditioning the air, using radiant cooling and indirect evaporation. *Energy and Buildings, 157*, 11-19. [DOI](https://doi.org/10.1016/j.enbuild.2017.12.003)
+8. **H Guo, M Ferrara, J Coleman, M Loyola, F Meggers** (2020). Simulation and measurement of air temperatures and mean radiant temperatures in a radiantly heated indoor space. *Energy, 193*, 116369. [DOI](https://doi.org/10.1016/j.energy.2019.116369)
+9. **D Aviv, H Guo, A Middel, F Meggers** (2021). Evaluating radiant heat in an outdoor urban environment: Resolving spatial and temporal variations with two sensing platforms and data-driven simulation. *Urban Climate, 35*, 100745. [DOI](https://doi.org/10.1016/j.uclim.2020.100745)
+10. **H Guo, Y Luo, F Meggers, M Simonetti** (2019). Human body exergy consumption models’ evaluation and their sensitivities towards different environmental conditions. *Energy, 183*, 1075-1088. [DOI](https://doi.org/10.1016/j.energy.2019.06.162)
+
+## Proceedings and Conference Publications
+
+11. **D Aviv, M Hou, E Teitelbaum, H Guo, F Meggers** (2020). Simulating invisible light: adapting lighting and geometry models for radiant heat transfer. *Proceedings of Symposia Simulation Architectural Urban Design, 311-318*. [DOI](https://doi.org/10.3390/proceedings2020-2020311)
+12. **H Guo, F Meggers** (2015). Impact of control availability on perceived comfort. *Energy Procedia, 78*, 1671-1677. [DOI](https://doi.org/10.1016/j.egypro.2015.11.265)
+13. **J Coleman, E Teitelbaum, H Guo, J Read, F Meggers** (2017). Examining architectural air and temperature with novel sensing techniques. *Energy Procedia, 122*, 1135-1140. [DOI](https://doi.org/10.1016/j.egypro.2017.07.356)
+14. **E Teitelbaum, H Guo, J Read, F Meggers** (2017). Mapping comfort with the SMART (spherical motion average radiant temperature) sensor. *Proceedings of Building Simulation*. [DOI](https://doi.org/10.1016/j.procs.2017.09.248)
+15. **S Jansen, M Fremouw, F Meggers, H Guo, RR Schmidt, C Maguerite** (2019). LowEx communities-Optimised performance of energy supply systems with exergy principles (Annex 64). *Fraunhofer Verlag*. [DOI](https://doi.org/10.20378/irbo-55050)
+16. **E Calabrò, F Meggers, E Teitelbaum, H Guo, C Gmachl, GM Penello** (2015). Thermoheliodome testing: Evaluation methods for testing directed radiant heat reflection. *Energy Procedia, 78*, 1762-1768. [DOI](https://doi.org/10.1016/j.egypro.2015.11.354)
+17. **H Guo, M Ferrara, J Coleman, M Loyola, F Meggers** (2020). Air temperature and mean radiant temperature data, collected and simulated across a radiantly-heated high-bay laboratory. *Data in Brief, 30*, 105192. [DOI](https://doi.org/10.1016/j.dib.2020.105192)
+18. **S Jansen, M Fremouw, F Meggers, H Guo, RR Schmidt, C Maguerite** (2019). LowEx Communities-Optimised Performance of Energy Supply Systems with Exergy Principles. *LowEx Communities-Optimised Performance of Energy Supply Systems with Exergy Principles*. [DOI](https://doi.org/10.20378/irbo-55050)
+19. **H Guo, F Meggers** (2018). Visualizing the exergy destructed in exergy delivery chain in relation to human thermal comfort with ExFlow. [DOI](https://doi.org/10.1016/j.energy.2018.08.068)
+20. **F Meggers, G Aschwanden, E Teitelbaum, H Guo, M Bruelisauer** (2015). Urban cooling potential: System losses from microclimates. *Energy Procedia, 78*, 3072-3077. [DOI](https://doi.org/10.1016/j.egypro.2015.11.672)
+21. **H Guo, F Meggers** (2017). Geothermal distribution network modeled as Heat Exchanger Network to be optimized with Mixed Integer Nonlinear Programming. *Energy Procedia, 122*, 1105-1110. [DOI](https://doi.org/10.1016/j.egypro.2017.07.345)
+22. **J Pantelic, E Teitelbaum, S Kim, H Guo, A Schlueter, A Rysanek** (2016). Air dehumidification with novel liquid desiccant system. *Expanding Boundaries: Systems Thinking in the Built Environment, 316-320*. [DOI](https://doi.org/10.1016/j.procs.2016.09.056)
+23. **H Guo, F Meggers** (2019). Charging and discharging a coaxial borehole heat exchanger as a battery. *Proceedings of 16th IBPSA International Conference & Exhibition Building*. [DOI](https://doi.org/10.26868/25222708.2019.210323)
+24. **S Jansen, M Fremouw, F Meggers, H Guo, RR Schmidt, C Maguerite** (2019). Capitoli 5.3 District Scale, 5.4 City Scale, 6.1 Collection of Methods, Models and Tools. *LowEx Communities-Optimised Performance of Energy Supply Systems with Exergy Principles*. [DOI](https://doi.org/10.20378/irbo-55050)
+25. **H Guo, E Teitelbaum, F Meggers** (2019). Humidifying without adding humidity: Psychrometric shifts in humidity from air temperature setbacks enabled by radiant heating or cooling. *Building Simulation Conference Proceedings*. [URL](https://collaborate.princeton.edu/en/publications/humidifying-without-adding-humidity-psychrometric-shifts-in-humid)

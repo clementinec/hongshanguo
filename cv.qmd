@@ -1,0 +1,61 @@
+---
+title: 'Background'
+---
+
+### Education
+
+- **PhD in Architecture** (Architectural Technology and Computational Design), Princeton University
+- **Master of Engineering** (Mechanical Engineering), Columbia University
+- **Bachelor of Engineering** (Architectural Engineering), Harbin Institute of Technology
+
+### Work Experience
+
+- **Assistant Professor**, Hong Kong University
+  - Developing physiological-signal-based 
+- **Principal Data Scientist**, Bank of New York Mellon
+  - Developed and patented time series predictive analytics technology
+  - Led a team of data scientists in NLP and machine learning projects
+- **Postdoctoral Researcher**, Princeton University
+  - Developed scalable sensing and data visualization algorithms
+
+### Historical Projects
+
+- **Media Watch Dog Tool**, Bank of New York Mellon (2020-2023)
+  - Developed a multi-platform media analysis tool for ticker-specific data
+- **Individual Sentiment Capturing and Market Behavior Analysis**, Bank of New York Mellon (2020 - Present)
+  - Led performance analytics through individual sentiment analysis
+  - Investigated retail investor behavior via social media data
+
+- **Conservative Time Series Forecasting**, Bank of New York Mellon (2020 - 2022)
+  - Developed a novel approach for conservative and accurate time series predictions
+  - Proposed a patent-pending framework combining machine learning and deep learning algorithms
+
+- **Occupant Comfort Monitoring Sensor Development**, Andlinger Center for Energy and the Environment (2019 - 2020)
+  - Designed and fabricated real-time occupant comfort monitoring prototypes
+
+- **Spherical Motion Average Radiant Temperature Sensor Development**, Industrial Institute of Research, Tokyo University (2017)
+  - Prototyped a radiant surface temperature sensor with range-finding capabilities
+
+- **Campus as a Lab Sensing Project**, School of Architecture, Princeton University (2015 - 2017)
+  - Developed WiFi-enabled indoor air quality sensing prototypes
+  - Managed a 30GB InfluxDB database with Grafana visualization
+
+- **Outdoor Radiant Environment Sensing**, School of Architecture, Princeton University (2015 - 2017)
+  - Designed outdoor radiant thermal comfort sensing prototypes
+  - Analyzed NOAA weather data for weather projections
+
+- **Geothermal Energy from Deep Borehole Heat Exchangers**, School of Architecture, Princeton University (2016 - 2018)
+  - Optimized heat extraction from coaxial borehole heat exchangers
+  - Conducted statistical analysis on indoor relative humidity using NOAA data and ESRI GIS Suite
+
+- **Thermoheliodome Sensing and Construction**, School of Architecture, Princeton University (2014 - 2015)
+  - Designed a plumbing system for a radiant cooling pavilion
+  - Programmed robotic arms for precision cutting in Grasshopper
+  - Analyzed data from radiant sensors using FLIR imagery in Python and Matlab
+
+- **Post-Occupancy Evaluation Studies**, School of Architecture, Carnegie Mellon University (2013 - 2014)
+  - Analyzed occupant responses and sensor data using rule-based and statistical NLP in Python and R
+
+### More
+
+- Check [CV](cv_need_update.pdf) for more details

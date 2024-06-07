@@ -1,0 +1,46 @@
+---
+title: "Team"
+# author: "Hongshan Guo"
+# date: "Last updated: 2024-06-07"
+format:
+  html:
+    toc: false
+    css: styles.css
+---
+
+## Hongshan Guo's Collaborative Network
+
+### Dr. Forrest Meggers
+**Position**: Associate Professor, School of Architecture, Princeton University
+- **Expertise**: Architectural Technology, Sustainable Design, and Energy Systems
+- **Collaborations**: Mentored Dr. Guo during her PhD and continues to collaborate on projects related to scalable sensing and geothermal energy systems.
+- **Notable Work**: Leading research on innovative building systems and sustainable design at Princeton University.
+
+### Dr. Ying Zhou
+**Position**: Associate Professor, Department of Architecture, Hong Kong University
+- **Expertise**: Building Design, Sustainable Architecture, and Urban Environments
+- **Collaborations**: Co-investigator with Dr. Guo on the investigation of wet markets retrofit and the challenges ensued by added humidity of active cooling.
+- **Notable Work**: Active in promoting sustainable design practices and enhancing urban living environments through innovative architectural solutions.
+
+### Dr. Dorit Aviv
+**Position**: Assistant Professor, University of Pennsylvania
+- **Expertise**: Thermal Comfort, Radiant Environments, and Predictive Models
+- **Collaborations**: Partnered with Dr. Guo on multiple projects focusing on thermal comfort and predictive analytics for building environments.
+- **Notable Work**: Renowned for her interests in thermal architecture and her investigation with Dr. Guo on mean radiant temperature and its application in indoor and outdoor environments.
+
+### Dr. Maria Ferrara
+**Position**: Assistant Professor, Department of Energy, Politecnico di Torino
+- **Expertise**: Energy Systems, Environmental Sensing, and Building Performance
+- **Collaborations**: Collaborates with Dr. Guo on research projects related to radiant temperature sensing and environmental data analysis.
+- **Notable Work**: Recognized for her contributions to the development of advanced environmental sensing technologies and energy efficiency strategies.
+
+
+### Dr. Jovan Pantelic
+**Position**: Research Scientist, Well Living Lab
+- **Expertise**: Indoor Air Quality, Human Comfort, and Building Systems
+- **Collaborations**: Worked with Dr. Guo on projects related to radiant cooling and indoor environmental quality.
+- **Notable Work**: Known for his research on the impact of indoor air quality on human health and comfort.
+
+---
+
+Dr. Hongshan Guo is privileged to work alongside a diverse and talented network of researchers and scientists. Together, they strive to push the boundaries of architectural technology, sustainable design, and energy efficiency, ensuring that future building designs prioritize occupant comfort and environmental sustainability.

@@ -1,0 +1,106 @@
+---
+title: 'Openings'
+date: "Last updated: 2024-06-07"
+---
+
+## PhD Opening at Hong Kong University
+
+### The Specs
+
+- **Position Title**: PhD Student
+- **Location**: Department of Architecture, Hong Kong University
+- **Type**: Fully Funded
+- **Application Deadline**: Until Filled
+- **Start Date**: Feb 2025 or later
+
+### About the Position
+
+**Position Overview**:
+The Department of Architecture at Hong Kong University, under the guidance of Dr. Hongshan Guo, is inviting applications for a PhD candidate position. This role is perfect for a highly motivated individual passionate about pushing the boundaries of architectural technology and sustainable building design. We are looking for candidates with a keen interest in the built environment and a curiosity about occupant behavior through data-driven research.
+
+**Research Focus**:
+The PhD candidate will engage in a multidisciplinary research project that integrates advanced sensor technology, data analytics, and building automation systems to enhance occupant comfort and energy efficiency in building environments. The research will align closely with the work of two Research Assistants, fostering a collaborative and fast-paced research environment.
+
+**Key Responsibilities**:
+
+- Develop and lead innovative research projects focusing on occupant-centric building controls.
+- Design and conduct experiments using wearable sensors and environmental monitoring systems.
+- Develop predictive models and integrate them with building automation systems.
+- Analyze complex datasets to generate insights and contribute to high-impact research publications.
+- Collaborate with a multidisciplinary team and contribute to the mentoring of junior research staff.
+
+**Qualifications**:
+
+- Master’s degree in Architecture, Electrical Engineering, Data Science, or a related field.
+- Strong background in sensor technology, data analytics, and machine learning.
+- Experience with building automation systems (BAS) and IoT protocols.
+- Proficiency in Python, statistical analysis, and machine learning model development.
+- Excellent research, analytical, and problem-solving skills.
+- Ability to work independently and collaboratively in a dynamic research environment.
+- Strong communication skills and a commitment to advancing sustainable building practices.
+- Strong interest in the built environment and occupant behavior.
+
+**Preferred Skills**:
+
+- Experience with feature extraction, engineering, and causal inference.
+- Familiarity with breadboard-based prototyping, PCB design, and EAGLE file manipulation.
+- Knowledge of HVAC control strategies and environmental sensor networks.
+- Demonstrated ability to publish research findings in high-impact journals.
+
+### How to Apply:
+Interested candidates should submit a cover letter, research proposal, CV, academic transcripts, and contact information for three references to hongshan@hku.hk. Please highlight your relevant experience and research interests in your cover letter.
+
+---
+
+## Research Associate Position at Hong Kong University
+
+### The Specs
+
+- **Position Title**: Research Assistant (Electrical/Mechanical Engineering or Data Science)
+- **Location**: Department of Architecture, Hong Kong University
+- **Salary**: HKD 23.5K/month + benefits
+- **Application Deadline**: Until Filled
+- **Start Date**: Summer of 2024
+
+### About the Positions
+
+**Position Overview**:
+The Department of Architecture at Hong Kong University, under the leadership of Dr. Hongshan Guo, is seeking two motivated Research Assistants to join our cutting-edge research team. These positions offer an exciting opportunity to work on innovative projects that merge architectural technology with advanced data analytics to enhance building design and occupant comfort. We are looking for individuals passionate about the built environment and curious about occupant behavior using data-driven approaches.
+
+**Key Responsibilities**:
+
+- Collaborate with a multidisciplinary team to develop and implement research projects.
+- Conduct experiments and collect data using state-of-the-art sensor technology and data analytics tools.
+- Assist in the design, prototyping, and testing of novel building automation systems.
+- Analyze data to extract meaningful insights and contribute to research publications.
+
+**Position 1: Research Assistant (Electrical/Mechanical Engineering)**
+**Qualifications**:
+
+- Bachelor’s degree in Electrical Engineering, Mechanical Engineering, or a related field.
+- Hands-on experience with sensor communication protocols and breadboard-based prototyping.
+- Proficiency in PCB design and manipulation of EAGLE files.
+- Technical know-how in calibration, usage, and data wrangling from various sensors.
+- Strong interest in the built environment and occupant behavior.
+
+**Position 2: Research Assistant (Data Science/Analytics)**
+**Qualifications**:
+
+- Bachelor’s degree in Data Science, Statistics, or a related field.
+- Strong skills in exploratory data analysis, feature extraction, and engineering.
+- Solid background in statistics and causal inference.
+- Proficiency in performing alternative model selection based on different data traits.
+- Strong interest in the built environment and occupant behavior.
+
+**Desired Skills for Both Positions**:
+
+- Proficient in Python, Linux systems an obvious plus.
+- Familiarity with building automation systems (BAS) and IoT protocols (BACnet, MQTT, Zigbee) and data format.
+- Excellent problem-solving skills and ability to work both independently and as part of a team.
+- Strong communication skills and a collaborative mindset and self-motivation.
+
+**How to Apply**:
+
+Interested candidates should submit a cover letter, CV, and contact information for two references to hongshan@hku.hk. Please indicate which position you are applying for (Electrical/Mechanical Engineering or Data Science/Analytics) in your cover letter.
+
+**Join us in shaping the future of sustainable and occupant-focused building designs!**

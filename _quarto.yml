@@ -1,0 +1,23 @@
+project:
+  type: website
+
+website:
+  title: "Hongshan Guo"
+  navbar:
+    left:
+      - publications.qmd
+      - openings.qmd
+      - cv.qmd
+      - people.qmd
+
+format:
+  html:
+    highlight-style: a11y
+    theme:
+      light: quartz
+      dark: darkly
+    css: styles.css
+    toc: false
+
+
+

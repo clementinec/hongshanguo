@@ -1,0 +1,119 @@
+---
+title: "About Me"
+# author: "Hongshan Guo"
+# date: "Last updated: 2024-06-07"
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: styles.css
+    include-after-body: footer.html
+---
+
+Howdy! You've reached the personal website for Dr. Hongshan Guo where her work and research alongside some available job postings are made.
+
+:::: {.columns}
+::: {.column width="15%" id='sidebar'}
+
+<img src="hguoprof.png" alt="Profile Picture" width=85%>
+
+**Hongshan Guo**
+
+<div class="bio-text">
+
+  Assistant Professor at Department of Architecture, Faculty of Architecture at Hong Kong University
+</div>
+
+<div class="contact-info">
+  <a href="mailto:hongshan@hku.hk">
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/email-open.png" alt="Email Logo" class="contact-logo"> Email
+  </a>
+  <a href="https://scholar.google.com/citations?hl=en&user=T34nzWsAAAAJ">
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/google-scholar.png" alt="Google Scholar Logo" class="contact-logo"> Google Scholar
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE">
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/linkedin.png" alt="LinkedIn Logo" class="contact-logo"> LinkedIn
+  </a>
+  <a href="https://www.researchgate.net/profile/Hongshan-Guo-3">
+    <img src="https://biederer.org/wp-content/uploads/researchgate-icon-1-300x300.png" alt="ResearchGate Logo" class="contact-logo"> ResearchGate
+  </a>
+  <a href="https://orcid.org/YOUR_ORCID_ID">
+    <img src="https://www.library.pitt.edu/sites/default/files/images/medialibrary/orcid.png" alt="ORCID Logo" class="contact-logo"> ORCID
+  </a>
+</div>
+:::
+
+
+::: {.column width="5%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="80%"}
+    
+## Fast Facts
+
+- Joined the Department of Architecture at Hong Kong University Sep. 2023. 
+- BEng on architectural tech (HIT), MSc on mechanical engineering (Columbia), PhD in Architecture (Princeton). 
+- Work at the intersection of architectural technology/engineering and predictive technologies
+- Recentering focus of future building design to occupants rather than a 'comfortable room'.
+- Worked professionally as a data scientist in banking industry for three years
+- <span style="color:yellowgreen;">**I AM HIRING!**</span>
+
+## Funded Opportunities for
+
+- Research Associates and PhD applicants now to start as early as Summer of 2024
+- Those interested in pushing boundaries with machine learning in the built environment, particularly if they are:
+  1. **Sensor Tech Savvy**: Hands-on experience with sensor technology and prototyping.
+  2. **Data Wizard**: Strong skills in data analysis and machine learning.
+  3. **Coding Pro**: Proficient in Python and Linux systems.
+  4. **Building Systems Knowledge**: Familiar with building automation and IoT protocols.
+  5. **Team Player**: Collaborative and independent work skills in a dynamic research environment.
+
+Don't hesitate to reach out via email if you think you are the right person! See [Openings](openings.qmd) for more details.
+
+## Research
+
+### Ongoing Funded Research
+
+- **Data/Occupant-Driven Design**: Developing advanced predictive models to enhance occupant comfort by integrating architectural engineering with real-time data analytics.
+- **Ventilation Overhaul in Wet Markets**: Investigating the transformation from open-air to air-tight environments in Hong Kong's wet markets to improve ventilation and health standards.
+- **Occupant-Centric IoT Sensing**: Leveraging modern sensor technology and data analytics to preemptively adjust building environments for optimal thermal comfort.
+- **Predictive Comfort Algorithms**: Developing machine learning models that use wearable sensor data to predict and manage occupant discomfort in real-time.
+
+### Selected Publications
+- Guo, H., Ferrara, M., Coleman, J., Loyola, M., & Meggers, F. (2020). Simulation and measurement of air temperatures and mean radiant temperatures in a radiantly heated indoor space. *Energy, 193*, 116369. [DOI](https://doi.org/10.1016/j.energy.2019.116369)
+- Guo, H., Ferarra, M., Loyola, M., Coleman, J., & Meggers, F. (2019). Simulation and measurement of air temperatures and mean radiant temperatures in a radiantly heated indoor space. *Energy*. [DOI](https://doi.org/10.1016/j.energy.2019.116369)
+- Guo, H., Aviv, D., Loyola, M., Teitelbaum, E., Houchois, N., & Meggers, F. (2019). On the understanding of the mean radiant temperature within both the indoor and outdoor environment, a critical review. *Renewable and Sustainable Energy Reviews*. [DOI](https://doi.org/10.1016/j.rser.2019.06.014)
+
+### Patents
+- **Time Series Predictive Analytics Technology**: Developed and patented a technology that generates conservative yet accurate time series predictions through multiple ensembled regression models, relaxing up to 2.5 billion dollars of investment potential per day.
+
+
+For a complete list of publications, [click here](https://scholar.google.com).
+
+## Teaching
+
+### Courses
+- **DESN2003: Research for Innovation**
+- **CCGL9065: Our Response to Climate Change HK2100** [2024 Portfolio](https://clementinec.github.io/ccgl9065/)
+- **DESN9002: Sustainable Leadership**
+
+
+### Notes and Resources
+<!-- - [DESN2003](#)
+- [CCGL9065](#) -->
+- [DESN9002 | 2324](https://clementinec.github.io/desn9002/#/)
+
+
+<!-- ## Contact
+
+For inquiries or further information, please reach out via email.
+
+- **Email:** [hg2329@columbia.edu](mailto:hg2329@columbia.edu)
+- **Office:** Location at HKU
+- **Social Media:** [LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE), [ResearchGate](https://www.researchgate.net/profile/YOUR_RESEARCHGATE_PROFILE) -->
+
+:::
+
+::::
+

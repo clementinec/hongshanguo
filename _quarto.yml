@@ -12,6 +12,7 @@ website:
 
 format:
   html:
+    embed-resources: true
     page-layout: full
     highlight-style: a11y
     theme:

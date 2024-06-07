@@ -12,6 +12,7 @@ website:
 
 format:
   html:
+    page-layout: full
     highlight-style: a11y
     theme:
       light: quartz

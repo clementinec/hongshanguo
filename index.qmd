@@ -31,13 +31,13 @@ Howdy! You've reached the personal website for Dr. Hongshan Guo where her work a
   <a href="https://scholar.google.com/citations?hl=en&user=T34nzWsAAAAJ">
     <img src="https://img.icons8.com/ios-filled/50/ffffff/google-scholar.png" alt="Google Scholar Logo" class="contact-logo"> Google Scholar
   </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE">
+  <a href="https://www.linkedin.com/in/hongshan-guo-b861a062">
     <img src="https://img.icons8.com/ios-filled/50/ffffff/linkedin.png" alt="LinkedIn Logo" class="contact-logo"> LinkedIn
   </a>
   <a href="https://www.researchgate.net/profile/Hongshan-Guo-3">
     <img src="https://biederer.org/wp-content/uploads/researchgate-icon-1-300x300.png" alt="ResearchGate Logo" class="contact-logo"> ResearchGate
   </a>
-  <a href="https://orcid.org/YOUR_ORCID_ID">
+  <a href="https://orcid.org/0000-0002-8716-0343">
     <img src="https://www.library.pitt.edu/sites/default/files/images/medialibrary/orcid.png" alt="ORCID Logo" class="contact-logo"> ORCID
   </a>
 </div>
